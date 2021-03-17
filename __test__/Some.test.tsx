@@ -1,8 +1,5 @@
 import { render } from "@testing-library/react";
-
-function SomeComp() {
-  return <div>Hello</div>;
-}
+import SomeComp from "../components/Some";
 
 describe("SomeComp", () => {
   it("renders Hello", () => {
