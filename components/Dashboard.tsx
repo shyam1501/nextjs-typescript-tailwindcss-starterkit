@@ -105,7 +105,6 @@ export default function Dashboard() {
                     <img
                       className="h-8 w-auto"
                       src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg"
-                      alt
                     />
                   </div>
                   <div className="-mr-2">
@@ -206,7 +205,6 @@ export default function Dashboard() {
           <img
             className="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full"
             src="https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-1.2.1&ixqx=T6AY8bD1bU&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80"
-            alt
           />
         </div>
       </div>
